@@ -27,4 +27,4 @@ Beginner CRUD application
 - SDLC basics
 - Backend logic
 ## Author
-Ntando Shaun Myeza
+Ntando Myeza
